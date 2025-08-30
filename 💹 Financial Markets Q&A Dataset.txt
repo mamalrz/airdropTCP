@@ -1,0 +1,33 @@
+Title: Financial Markets Q&A Dataset  
+Author: Mohammadreza  
+Topic: Finance – Stocks, Bonds, Economic Indicators
+
+Q1: What is the primary function of a stock exchange?  
+A1: A stock exchange facilitates the buying and selling of publicly traded company shares, ensuring transparency and liquidity.
+
+Q2: What is market capitalization?  
+A2: Market cap is the total value of a company's outstanding shares, calculated as share price × number of shares.
+
+Q3: What is the significance of the S&P 500 index?  
+A3: It tracks 500 major U.S. companies and is widely used as a benchmark for the overall stock market performance.
+
+Q4: What is a bear market?  
+A4: A bear market is a period where asset prices fall 20% or more from recent highs, often driven by pessimism.
+
+Q5: What is quantitative easing (QE)?  
+A5: QE is a monetary policy where central banks buy securities to increase money supply and stimulate the economy.
+
+Q6: How do interest rates affect stock markets?  
+A6: Higher interest rates can reduce stock valuations by increasing borrowing costs and reducing consumer spending.
+
+Q7: What is the role of a bond in a portfolio?  
+A7: Bonds provide fixed income and can reduce overall portfolio risk through diversification.
+
+Q8: What is a dividend?  
+A8: A dividend is a distribution of a portion of a company’s earnings to its shareholders, typically paid quarterly.
+
+Q9: What causes inflation?  
+A9: Inflation results from increased demand, rising production costs, or expansionary monetary policies.
+
+Q10: What is a portfolio diversification strategy?  
+A10: Diversification involves spreading investments across assets to reduce risk and improve long-term returns.
