@@ -1,0 +1,33 @@
+Title: Forex & Crypto Q&A Dataset  
+Author: Mohammadreza  
+Topic: Forex, Cryptocurrency – Markets, Mechanisms, Risk
+
+Q1: What is forex trading?  
+A1: Forex trading involves exchanging one currency for another on the global currency market, often for speculation or hedging.
+
+Q2: How are cryptocurrencies different from fiat currencies?  
+A2: Cryptocurrencies are decentralized and digital, with no central issuer, unlike government-backed fiat currencies.
+
+Q3: What is leverage in forex trading?  
+A3: Leverage allows traders to control a large position with a small capital outlay, increasing both potential profits and risks.
+
+Q4: What is a stablecoin?  
+A4: A stablecoin is a cryptocurrency pegged to a stable asset like USD, designed to reduce volatility.
+
+Q5: What does a pip represent in forex?  
+A5: A pip is the smallest price move a currency pair can make, usually 0.0001 for most pairs.
+
+Q6: What is a crypto wallet?  
+A6: A crypto wallet stores public and private keys used to manage and secure cryptocurrency holdings.
+
+Q7: What causes volatility in crypto markets?  
+A7: Volatility is driven by speculation, news, low liquidity, regulatory developments, and large trades.
+
+Q8: What is blockchain?  
+A8: Blockchain is a decentralized ledger technology that records transactions securely and transparently across a network.
+
+Q9: How is liquidity important in forex and crypto markets?  
+A9: High liquidity allows for faster, more accurate trade execution and lower price slippage.
+
+Q10: What are the trading hours for the forex market?  
+A10: Forex operates 24 hours a day, five days a week, opening Sunday evening and closing Friday night (UTC).
